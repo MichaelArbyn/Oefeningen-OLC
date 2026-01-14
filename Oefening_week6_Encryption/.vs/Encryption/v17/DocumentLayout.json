@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Bestanden\\Lesweek 6\\Oefening_week6_Encryption\\",
+  "WorkspaceRootPath": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_Encryption\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76606D16-E7E8-462D-B821-4D958346A0BD}|Encryption\\Encryption.csproj|c:\\users\\micha\\onedrive - odisee\\jaar 3\\programmeertechnieken \u0026 testen\\bestanden\\lesweek 6\\oefening_week6_encryption\\encryption\\rot13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76606D16-E7E8-462D-B821-4D958346A0BD}|Encryption\\Encryption.csproj|c:\\users\\micha\\onedrive - odisee\\jaar 3\\programmeertechnieken \u0026 testen\\repositories\\olc\\oefeningen-olc\\oefening_week6_encryption\\encryption\\rot13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76606D16-E7E8-462D-B821-4D958346A0BD}|Encryption\\Encryption.csproj|solutionrelative:encryption\\rot13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Rot13.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Bestanden\\Lesweek 6\\Oefening_week6_Encryption\\Encryption\\Rot13.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_Encryption\\Encryption\\Rot13.cs",
               "RelativeDocumentMoniker": "Encryption\\Rot13.cs",
-              "ToolTip": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Bestanden\\Lesweek 6\\Oefening_week6_Encryption\\Encryption\\Rot13.cs",
+              "ToolTip": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_Encryption\\Encryption\\Rot13.cs",
               "RelativeToolTip": "Encryption\\Rot13.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

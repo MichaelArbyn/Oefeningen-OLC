@@ -12,25 +12,35 @@ namespace HogerLager
         /// <summary>
         /// Maakt een nieuw spel waarvan het nummer bepaald is met een random number generator.
         /// </summary>
-        public HogerLager():this(new TrueRandom())
+        public HogerLager() : this(new TrueRandom())
         {
-
-        }
-        public HogerLager(IRandomFunctie random)
-        {
-            number = (uint) random.Next(16);
         }
 
         /// <summary>
-        /// Evauleert een raadpoging
+        /// Constructor die een IRandomFunctie gebruikt zodat we in testen het getal kunnen vastleggen.
         /// </summary>
-        /// <param name="guess"> de raadpoging</param>
-        /// <returns> resultaat van de evaluatie: correct, hoger of lager </returns>
+        public HogerLager(IRandomFunctie random)
+        {
+            number = (uint)random.Next(16);
+        }
+
+        /// <summary>
+        /// Evalueert een raadpoging.
+        /// </summary>
+        /// <param name="guess">De raadpoging.</param>
+        /// <returns>Correct, Hoger of Lager.</returns>
         public RaadResultaat RaadEens(int guess)
         {
-            return RaadResultaat.Hoger;
+            if (guess == number)
+                return RaadResultaat.Correct;
+
+            if (guess < number)
+                return RaadResultaat.Hoger;
+
+            return RaadResultaat.Lager;
         }
     }
+
     /// <summary>
     /// Resultaat van een raadpoging.
     /// </summary>

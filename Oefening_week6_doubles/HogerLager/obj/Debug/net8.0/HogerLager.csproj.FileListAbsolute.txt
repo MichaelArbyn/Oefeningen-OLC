@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\HogerLager\bin\Debug\net8.0\HogerLager.exe
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\HogerLager\bin\Debug\net8.0\HogerLager.deps.json
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\HogerLager\bin\Debug\net8.0\HogerLager.runtimeconfig.json
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\HogerLager\bin\Debug\net8.0\HogerLager.dll
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\HogerLager\bin\Debug\net8.0\HogerLager.pdb
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\HogerLager\obj\Debug\net8.0\HogerLager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\HogerLager\obj\Debug\net8.0\HogerLager.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\HogerLager\obj\Debug\net8.0\HogerLager.AssemblyInfo.cs
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\HogerLager\obj\Debug\net8.0\HogerLager.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\HogerLager\obj\Debug\net8.0\HogerLager.sourcelink.json
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\HogerLager\obj\Debug\net8.0\HogerLager.dll
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\HogerLager\obj\Debug\net8.0\refint\HogerLager.dll
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\HogerLager\obj\Debug\net8.0\HogerLager.pdb
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\HogerLager\obj\Debug\net8.0\HogerLager.genruntimeconfig.cache
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\HogerLager\obj\Debug\net8.0\ref\HogerLager.dll
