@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\SocialeWoning\bin\Debug\net8.0\SocialeWoning.exe
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\SocialeWoning\bin\Debug\net8.0\SocialeWoning.deps.json
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\SocialeWoning\bin\Debug\net8.0\SocialeWoning.runtimeconfig.json
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\SocialeWoning\bin\Debug\net8.0\SocialeWoning.dll
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\SocialeWoning\bin\Debug\net8.0\SocialeWoning.pdb
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\SocialeWoning\obj\Debug\net8.0\SocialeWoning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\SocialeWoning\obj\Debug\net8.0\SocialeWoning.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\SocialeWoning\obj\Debug\net8.0\SocialeWoning.AssemblyInfo.cs
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\SocialeWoning\obj\Debug\net8.0\SocialeWoning.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\SocialeWoning\obj\Debug\net8.0\SocialeWoning.sourcelink.json
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\SocialeWoning\obj\Debug\net8.0\SocialeWoning.dll
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\SocialeWoning\obj\Debug\net8.0\refint\SocialeWoning.dll
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\SocialeWoning\obj\Debug\net8.0\SocialeWoning.pdb
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\SocialeWoning\obj\Debug\net8.0\SocialeWoning.genruntimeconfig.cache
+C:\Users\micha\OneDrive - ODISEE\Jaar 3\Programmeertechnieken & testen\Repositories\OLC\Oefeningen-OLC\Oefening_week6_doubles\SocialeWoning\obj\Debug\net8.0\ref\SocialeWoning.dll

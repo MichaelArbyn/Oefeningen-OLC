@@ -6,6 +6,7 @@
     public class SocialeWoningVoorwaardenChecker
     {
         private const int MIN_LEEFTIJD = 18;
+        private const int MAX_INKOMEN = 30000;
 
         /// <summary>
         /// Bepaalt of een kandidaat voldoet aan de gestelde voorwaarden.
@@ -16,8 +17,26 @@
         public bool VoldoetAanVoorwaarden(Kandidaat kandidaat)
         {
 
-            // Kandidaat voldoet aan alle voorwaarden
-            return true;
+            {
+                if (kandidaat.Leeftijd < MIN_LEEFTIJD)
+                    return false;
+
+                if (kandidaat.Inkomen >= MAX_INKOMEN)
+                    return false;
+
+                if (kandidaat.IsHuisvesting("woning in vruchtgebruik"))
+                    return false;
+
+                bool heefEigenWoning = kandidaat.IsHuisvesting("eigen woning");
+                bool isOnbewoonbaar = kandidaat.IsHuisvesting("woning onbewoonbaar");
+
+                if (heefEigenWoning || isOnbewoonbaar)
+                    return false;
+
+                // Kandidaat voldoet aan alle voorwaarden
+                return true;
+            }
+
         }
     }
 }

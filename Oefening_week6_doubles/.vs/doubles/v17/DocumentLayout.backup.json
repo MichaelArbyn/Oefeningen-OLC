@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C924C6D3-E280-49B3-A025-983861E1B551}|HogerLager\\HogerLager.csproj|c:\\users\\micha\\onedrive - odisee\\jaar 3\\programmeertechnieken \u0026 testen\\repositories\\olc\\oefeningen-olc\\oefening_week6_doubles\\hogerlager\\fakerandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C924C6D3-E280-49B3-A025-983861E1B551}|HogerLager\\HogerLager.csproj|solutionrelative:hogerlager\\fakerandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93235079-57E0-4B78-9753-F35C56FCC47D}|SocialeWoning.tests_opgave\\SocialeWoning.tests_opgave.csproj|c:\\users\\micha\\onedrive - odisee\\jaar 3\\programmeertechnieken \u0026 testen\\repositories\\olc\\oefeningen-olc\\oefening_week6_doubles\\socialewoning.tests_opgave\\socialewoningvoorwaardencheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93235079-57E0-4B78-9753-F35C56FCC47D}|SocialeWoning.tests_opgave\\SocialeWoning.tests_opgave.csproj|solutionrelative:socialewoning.tests_opgave\\socialewoningvoorwaardencheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3788A9BB-13CB-40DA-9971-C6E7AE48ADB1}|HogerLager.Tests-opgave\\HogerLager.Tests-opgave.csproj|c:\\users\\micha\\onedrive - odisee\\jaar 3\\programmeertechnieken \u0026 testen\\repositories\\olc\\oefeningen-olc\\oefening_week6_doubles\\hogerlager.tests-opgave\\hogerlagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3788A9BB-13CB-40DA-9971-C6E7AE48ADB1}|HogerLager.Tests-opgave\\HogerLager.Tests-opgave.csproj|solutionrelative:hogerlager.tests-opgave\\hogerlagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B70894A-D72D-4CDD-A23D-F7C2D7BBC39C}|SocialeWoning\\SocialeWoning.csproj|c:\\users\\micha\\onedrive - odisee\\jaar 3\\programmeertechnieken \u0026 testen\\repositories\\olc\\oefeningen-olc\\oefening_week6_doubles\\socialewoning\\socialewoningvoorwaardenchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B70894A-D72D-4CDD-A23D-F7C2D7BBC39C}|SocialeWoning\\SocialeWoning.csproj|solutionrelative:socialewoning\\socialewoningvoorwaardenchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3788A9BB-13CB-40DA-9971-C6E7AE48ADB1}|HogerLager.Tests-opgave\\HogerLager.Tests-opgave.csproj|c:\\users\\micha\\onedrive - odisee\\jaar 3\\programmeertechnieken \u0026 testen\\repositories\\olc\\oefeningen-olc\\oefening_week6_doubles\\hogerlager.tests-opgave\\hogerlagertests_nsub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3788A9BB-13CB-40DA-9971-C6E7AE48ADB1}|HogerLager.Tests-opgave\\HogerLager.Tests-opgave.csproj|solutionrelative:hogerlager.tests-opgave\\hogerlagertests_nsub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B70894A-D72D-4CDD-A23D-F7C2D7BBC39C}|SocialeWoning\\SocialeWoning.csproj|c:\\users\\micha\\onedrive - odisee\\jaar 3\\programmeertechnieken \u0026 testen\\repositories\\olc\\oefeningen-olc\\oefening_week6_doubles\\socialewoning\\toewijzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B70894A-D72D-4CDD-A23D-F7C2D7BBC39C}|SocialeWoning\\SocialeWoning.csproj|solutionrelative:socialewoning\\toewijzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C924C6D3-E280-49B3-A025-983861E1B551}|HogerLager\\HogerLager.csproj|c:\\users\\micha\\onedrive - odisee\\jaar 3\\programmeertechnieken \u0026 testen\\repositories\\olc\\oefeningen-olc\\oefening_week6_doubles\\hogerlager\\hogerlager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C924C6D3-E280-49B3-A025-983861E1B551}|HogerLager\\HogerLager.csproj|solutionrelative:hogerlager\\hogerlager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B70894A-D72D-4CDD-A23D-F7C2D7BBC39C}|SocialeWoning\\SocialeWoning.csproj|c:\\users\\micha\\onedrive - odisee\\jaar 3\\programmeertechnieken \u0026 testen\\repositories\\olc\\oefeningen-olc\\oefening_week6_doubles\\socialewoning\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{9B70894A-D72D-4CDD-A23D-F7C2D7BBC39C}|SocialeWoning\\SocialeWoning.csproj|solutionrelative:socialewoning\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C924C6D3-E280-49B3-A025-983861E1B551}|HogerLager\\HogerLager.csproj|c:\\users\\micha\\onedrive - odisee\\jaar 3\\programmeertechnieken \u0026 testen\\repositories\\olc\\oefeningen-olc\\oefening_week6_doubles\\hogerlager\\irandomfunctie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C924C6D3-E280-49B3-A025-983861E1B551}|HogerLager\\HogerLager.csproj|solutionrelative:hogerlager\\irandomfunctie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93235079-57E0-4B78-9753-F35C56FCC47D}|SocialeWoning.tests_opgave\\SocialeWoning.tests_opgave.csproj|c:\\users\\micha\\onedrive - odisee\\jaar 3\\programmeertechnieken \u0026 testen\\repositories\\olc\\oefeningen-olc\\oefening_week6_doubles\\socialewoning.tests_opgave\\toewijzertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93235079-57E0-4B78-9753-F35C56FCC47D}|SocialeWoning.tests_opgave\\SocialeWoning.tests_opgave.csproj|solutionrelative:socialewoning.tests_opgave\\toewijzertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07700550-6187-4324-ABF7-57CF1D51E6B3}|HogerLager.Tests\\HogerLager.Tests-oplossing.csproj|c:\\users\\micha\\onedrive - odisee\\jaar 3\\programmeertechnieken \u0026 testen\\repositories\\olc\\oefeningen-olc\\oefening_week6_doubles\\hogerlager.tests\\hogerlagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07700550-6187-4324-ABF7-57CF1D51E6B3}|HogerLager.Tests\\HogerLager.Tests-oplossing.csproj|solutionrelative:hogerlager.tests\\hogerlagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B70894A-D72D-4CDD-A23D-F7C2D7BBC39C}|SocialeWoning\\SocialeWoning.csproj|c:\\users\\micha\\onedrive - odisee\\jaar 3\\programmeertechnieken \u0026 testen\\repositories\\olc\\oefeningen-olc\\oefening_week6_doubles\\socialewoning\\kandidaat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B70894A-D72D-4CDD-A23D-F7C2D7BBC39C}|SocialeWoning\\SocialeWoning.csproj|solutionrelative:socialewoning\\kandidaat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C924C6D3-E280-49B3-A025-983861E1B551}|HogerLager\\HogerLager.csproj|c:\\users\\micha\\onedrive - odisee\\jaar 3\\programmeertechnieken \u0026 testen\\repositories\\olc\\oefeningen-olc\\oefening_week6_doubles\\hogerlager\\truerandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C924C6D3-E280-49B3-A025-983861E1B551}|HogerLager\\HogerLager.csproj|solutionrelative:hogerlager\\truerandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C924C6D3-E280-49B3-A025-983861E1B551}|HogerLager\\HogerLager.csproj|c:\\users\\micha\\onedrive - odisee\\jaar 3\\programmeertechnieken \u0026 testen\\repositories\\olc\\oefeningen-olc\\oefening_week6_doubles\\hogerlager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C924C6D3-E280-49B3-A025-983861E1B551}|HogerLager\\HogerLager.csproj|solutionrelative:hogerlager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07700550-6187-4324-ABF7-57CF1D51E6B3}|HogerLager.Tests\\HogerLager.Tests-oplossing.csproj|c:\\users\\micha\\onedrive - odisee\\jaar 3\\programmeertechnieken \u0026 testen\\repositories\\olc\\oefeningen-olc\\oefening_week6_doubles\\hogerlager.tests\\hogerlagertests_nsub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07700550-6187-4324-ABF7-57CF1D51E6B3}|HogerLager.Tests\\HogerLager.Tests-oplossing.csproj|solutionrelative:hogerlager.tests\\hogerlagertests_nsub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B70894A-D72D-4CDD-A23D-F7C2D7BBC39C}|SocialeWoning\\SocialeWoning.csproj|c:\\users\\micha\\onedrive - odisee\\jaar 3\\programmeertechnieken \u0026 testen\\repositories\\olc\\oefeningen-olc\\oefening_week6_doubles\\socialewoning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B70894A-D72D-4CDD-A23D-F7C2D7BBC39C}|SocialeWoning\\SocialeWoning.csproj|solutionrelative:socialewoning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,119 +46,114 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HogerLagerTests.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\HogerLager.Tests\\HogerLagerTests.cs",
-              "RelativeDocumentMoniker": "HogerLager.Tests\\HogerLagerTests.cs",
-              "ToolTip": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\HogerLager.Tests\\HogerLagerTests.cs",
-              "RelativeToolTip": "HogerLager.Tests\\HogerLagerTests.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ToewijzerTests.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning.tests_opgave\\ToewijzerTests.cs",
+              "RelativeDocumentMoniker": "SocialeWoning.tests_opgave\\ToewijzerTests.cs",
+              "ToolTip": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning.tests_opgave\\ToewijzerTests.cs",
+              "RelativeToolTip": "SocialeWoning.tests_opgave\\ToewijzerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T18:32:01.763Z",
+              "WhenOpened": "2026-01-14T18:57:02.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FakeRandom.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\HogerLager\\FakeRandom.cs",
-              "RelativeDocumentMoniker": "HogerLager\\FakeRandom.cs",
-              "ToolTip": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\HogerLager\\FakeRandom.cs",
-              "RelativeToolTip": "HogerLager\\FakeRandom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Title": "SocialeWoningVoorwaardenCheckerTests.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning.tests_opgave\\SocialeWoningVoorwaardenCheckerTests.cs",
+              "RelativeDocumentMoniker": "SocialeWoning.tests_opgave\\SocialeWoningVoorwaardenCheckerTests.cs",
+              "ToolTip": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning.tests_opgave\\SocialeWoningVoorwaardenCheckerTests.cs",
+              "RelativeToolTip": "SocialeWoning.tests_opgave\\SocialeWoningVoorwaardenCheckerTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwCMAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T18:30:05.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HogerLagerTests_NSub.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\HogerLager.Tests\\HogerLagerTests_NSub.cs",
-              "RelativeDocumentMoniker": "HogerLager.Tests\\HogerLagerTests_NSub.cs",
-              "ToolTip": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\HogerLager.Tests\\HogerLagerTests_NSub.cs",
-              "RelativeToolTip": "HogerLager.Tests\\HogerLagerTests_NSub.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T18:24:47.563Z",
+              "WhenOpened": "2026-01-14T18:57:01.726Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HogerLagerTests_NSub.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\HogerLager.Tests-opgave\\HogerLagerTests_NSub.cs",
-              "RelativeDocumentMoniker": "HogerLager.Tests-opgave\\HogerLagerTests_NSub.cs",
-              "ToolTip": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\HogerLager.Tests-opgave\\HogerLagerTests_NSub.cs",
-              "RelativeToolTip": "HogerLager.Tests-opgave\\HogerLagerTests_NSub.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Title": "Toewijzer.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning\\Toewijzer.cs",
+              "RelativeDocumentMoniker": "SocialeWoning\\Toewijzer.cs",
+              "ToolTip": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning\\Toewijzer.cs",
+              "RelativeToolTip": "SocialeWoning\\Toewijzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T17:57:01.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TrueRandom.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\HogerLager\\TrueRandom.cs",
-              "RelativeDocumentMoniker": "HogerLager\\TrueRandom.cs",
-              "ToolTip": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\HogerLager\\TrueRandom.cs",
-              "RelativeToolTip": "HogerLager\\TrueRandom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T17:57:21.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\HogerLager\\Program.cs",
-              "RelativeDocumentMoniker": "HogerLager\\Program.cs",
-              "ToolTip": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\HogerLager\\Program.cs",
-              "RelativeToolTip": "HogerLager\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T17:57:20.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IRandomFunctie.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\HogerLager\\IRandomFunctie.cs",
-              "RelativeDocumentMoniker": "HogerLager\\IRandomFunctie.cs",
-              "ToolTip": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\HogerLager\\IRandomFunctie.cs",
-              "RelativeToolTip": "HogerLager\\IRandomFunctie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T17:57:19.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HogerLager.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\HogerLager\\HogerLager.cs",
-              "RelativeDocumentMoniker": "HogerLager\\HogerLager.cs",
-              "ToolTip": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\HogerLager\\HogerLager.cs",
-              "RelativeToolTip": "HogerLager\\HogerLager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T17:57:18.976Z",
+              "WhenOpened": "2026-01-14T18:56:47.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HogerLagerTests.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\HogerLager.Tests-opgave\\HogerLagerTests.cs",
-              "RelativeDocumentMoniker": "HogerLager.Tests-opgave\\HogerLagerTests.cs",
-              "ToolTip": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\HogerLager.Tests-opgave\\HogerLagerTests.cs*",
-              "RelativeToolTip": "HogerLager.Tests-opgave\\HogerLagerTests.cs*",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDIAAAAUAAAAAAAAAA==",
+              "Title": "SocialeWoningVoorwaardenChecker.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning\\SocialeWoningVoorwaardenChecker.cs",
+              "RelativeDocumentMoniker": "SocialeWoning\\SocialeWoningVoorwaardenChecker.cs",
+              "ToolTip": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning\\SocialeWoningVoorwaardenChecker.cs",
+              "RelativeToolTip": "SocialeWoning\\SocialeWoningVoorwaardenChecker.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T17:56:58.966Z",
+              "WhenOpened": "2026-01-14T18:56:46.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning\\Program.cs",
+              "RelativeDocumentMoniker": "SocialeWoning\\Program.cs",
+              "ToolTip": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning\\Program.cs",
+              "RelativeToolTip": "SocialeWoning\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T18:56:43.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kandidaat.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning\\Kandidaat.cs",
+              "RelativeDocumentMoniker": "SocialeWoning\\Kandidaat.cs",
+              "ToolTip": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning\\Kandidaat.cs",
+              "RelativeToolTip": "SocialeWoning\\Kandidaat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T18:56:42.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "1077f8be-f07a-4f74-96e7-fe0aece1035c",
+        "Display": 1,
+        "X": 1,
+        "Y": 1,
+        "Width": 1438,
+        "Height": 850,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning\\README.md",
+              "RelativeDocumentMoniker": "SocialeWoning\\README.md",
+              "ToolTip": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning\\README.md",
+              "RelativeToolTip": "SocialeWoning\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-14T18:56:48.593Z",
               "EditorCaption": ""
             }
           ]
