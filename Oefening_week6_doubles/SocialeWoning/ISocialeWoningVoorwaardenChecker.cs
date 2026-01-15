@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SocialeWoning
+﻿namespace SocialeWoning
 {
-    internal interface ISocialeWoningVoorwaardenChecker
+    /// <summary>
+    /// Interface voor het controleren van de voorwaarden voor een sociale woning.
+    /// Req01: bepaalt of een kandidaat voldoet aan alle voorwaarden.
+    /// </summary>
+    public interface ISocialeWoningVoorwaardenChecker
     {
         bool VoldoetAanVoorwaarden(Kandidaat kandidaat);
     }

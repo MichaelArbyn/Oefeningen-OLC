@@ -1,27 +1,28 @@
 ﻿namespace SocialeWoning
 {
     /// <summary>
-    /// Stelt 1 persoon voor.   
+    /// Domeinklasse die een kandidaat voorstelt.
+    /// Bevat leeftijd, inkomen en huisvestingsfeiten.
     /// </summary>
-    /// <param name="leeftijd">in aantal jaren</param>
-    /// <param name="inkomen">van laatste kalenderjaar in euro</param>
-    /// <param name="huisvesting"> Waarden zoals bepaald door Vlaams woningregister</param> 
-    public class Kandidaat(int leeftijd, int inkomen, Dictionary<string, bool> huisvesting)
+    public class Kandidaat
     {
-        public int Leeftijd { get; } = leeftijd;
-        public int Inkomen { get; } = inkomen;
-        private Dictionary<string, bool> Huisvesting { get; } = new Dictionary<string, bool>(huisvesting);
+        public int Leeftijd { get; }
+        public int Inkomen { get; }
+        private readonly Dictionary<string, bool> huisvesting;
 
-        /// <summary>
-        /// Controleert of de kandidaat een bepaalde huisvestingssituatie heeft.
-        /// </summary>
-        /// <param name="type"> de situatie te ondervragen</param>
-        /// <returns>resultaat van de bevraging</returns>
-        public bool IsHuisvesting(string type)
+        public Kandidaat(int leeftijd, int inkomen, Dictionary<string, bool> huisvesting)
         {
-            return Huisvesting.ContainsKey(type) && Huisvesting[type];
+            Leeftijd = leeftijd;
+            Inkomen = inkomen;
+            this.huisvesting = huisvesting ?? new Dictionary<string, bool>();
         }
 
+        /// <summary>
+        /// Controleert of een bepaald huisvestingsfeit aanwezig is.
+        /// </summary>
+        public bool IsHuisvesting(string sleutel)
+        {
+            return huisvesting.TryGetValue(sleutel, out bool waarde) && waarde;
+        }
     }
-
 }

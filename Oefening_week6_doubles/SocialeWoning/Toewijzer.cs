@@ -1,53 +1,43 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SocialeWoning
+﻿namespace SocialeWoning
 {
     /// <summary>
-    /// Wijst sociale woningen toe aan kandidaten op basis van bepaalde criteria.
+    /// Req02: bepaalt of een woning kan worden toegewezen aan een kandidaat.
+    /// Toewijzing gebeurt enkel als:
+    /// - de kandidaat voldoet aan alle voorwaarden (REQ01)
+    /// - er nog beschikbare woningen zijn
     /// </summary>
     public class Toewijzer
     {
-        // Aantal beschikbare sociale woningen
-        // Dit is slechts een simplificatie voor dit voorbeeld. Beeld je veeeeeeeel variabelen en logica in om dit te beheren.
-        private int aantalBeschikbareWoningen = 1;
+        /// <summary>
+        /// Interface‑gedreven afhankelijkheid zodat REQ02 getest kan worden met een test double.
+        /// </summary>
+        public ISocialeWoningVoorwaardenChecker VoowaardenChecker { get; set; }
+            = new SocialeWoningVoorwaardenChecker();
 
         /// <summary>
-        /// Entiteit die de voorwaarden voor sociale woningtoewijzing controleert.
+        /// Aantal beschikbare woningen (startwaarde: 1).
         /// </summary>
-        public SocialeWoningVoorwaardenChecker VoowaardenChecker { get; set; } = new();
-
-        public Toewijzer() { }
-
+        public int AantalBeschikbareWoningen { get; private set; } = 1;
 
         /// <summary>
-        /// Bepaalt of een kandidaat in aanmerking komt voor toewijzing van een sociale woning.
+        /// Req02:
+        /// - Als kandidaat niet voldoet aan voorwaarden → false
+        /// - Als geen woningen beschikbaar → false
+        /// - Anders: woning toewijzen, voorraad verminderen → true
         /// </summary>
-        /// <param name="kandidaat"> te beoordelen kandidaat</param>
-        /// <returns> true als in aanmerking </returns>
-        private bool KomtInAanmerking(Kandidaat kandidaat)
-        {
-            return VoowaardenChecker.VoldoetAanVoorwaarden(kandidaat);
-        }
-
-        /// <summary>
-        /// Kent een sociale woning toe aan een kandidaat indien deze in aanmerking komt en een woning beschikbaar is.
-        /// req02
-        /// </summary>
-        /// <param name="kandidaat"></param>
-        /// <returns>true als een toewijzing is gebeurd</returns>
         public bool Toewijzen(Kandidaat kandidaat)
         {
-            // TODO implementeer NADAT je alle unit testen hebt gemaakt.
-            if(KomtInAanmerking(kandidaat)) return false;
-            return false; // Woning niet toegewezen
+            // Voorwaardenchecker beslist of kandidaat geldig is
+            if (!VoowaardenChecker.VoldoetAanVoorwaarden(kandidaat))
+                return false;
+
+            // Geen woningen meer beschikbaar
+            if (AantalBeschikbareWoningen <= 0)
+                return false;
+
+            // Woning toewijzen
+            AantalBeschikbareWoningen--;
+            return true;
         }
-
-        // en nog veel meer functies...
-
-
     }
 }
