@@ -22,7 +22,7 @@ namespace TestBakkerijLimited
             var kaart = _controller.MaakNieuweKlantenkaart();
             kaart.AantalBroden = 10;
 
-            _controller.VoegBroodToeAanBestelling("Wit", 3);
+            _controller.VoegBroodToeAanBestelling("wit brood", 3);
             _controller.VoegBestellingToeAanKlantenkaart();
 
             //Act
@@ -32,7 +32,7 @@ namespace TestBakkerijLimited
             //Assert
             Assert.IsTrue(kortingMogelijk, "Korting moet mogelijk zijn bij 10 broden.");
             Assert.That(korting, Is.EqualTo(3.50m), "Korting moet gelijk zijn aan 1 gratis wit brood.");
-            Assert.That(kaart.AantalBroden, Is.EqualTo(0), "Aantal broden op kaart moet verminderd worden met 10.");
+            Assert.That(kaart.AantalBroden, Is.EqualTo(3), "Aantal broden op kaart moet verminderd worden met 10.");
         }
     }
 }

@@ -11,10 +11,6 @@
       "RelativeMoniker": "D:0:0:{93235079-57E0-4B78-9753-F35C56FCC47D}|SocialeWoning.tests_opgave\\SocialeWoning.tests_opgave.csproj|solutionrelative:socialewoning.tests_opgave\\socialewoningvoorwaardencheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B70894A-D72D-4CDD-A23D-F7C2D7BBC39C}|SocialeWoning\\SocialeWoning.csproj|c:\\users\\micha\\onedrive - odisee\\jaar 3\\programmeertechnieken \u0026 testen\\repositories\\olc\\oefeningen-olc\\oefening_week6_doubles\\socialewoning\\isocialewoningvoorwaardenchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B70894A-D72D-4CDD-A23D-F7C2D7BBC39C}|SocialeWoning\\SocialeWoning.csproj|solutionrelative:socialewoning\\isocialewoningvoorwaardenchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9B70894A-D72D-4CDD-A23D-F7C2D7BBC39C}|SocialeWoning\\SocialeWoning.csproj|c:\\users\\micha\\onedrive - odisee\\jaar 3\\programmeertechnieken \u0026 testen\\repositories\\olc\\oefeningen-olc\\oefening_week6_doubles\\socialewoning\\toewijzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B70894A-D72D-4CDD-A23D-F7C2D7BBC39C}|SocialeWoning\\SocialeWoning.csproj|solutionrelative:socialewoning\\toewijzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,12 +19,16 @@
       "RelativeMoniker": "D:0:0:{9B70894A-D72D-4CDD-A23D-F7C2D7BBC39C}|SocialeWoning\\SocialeWoning.csproj|solutionrelative:socialewoning\\socialewoningvoorwaardenchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9B70894A-D72D-4CDD-A23D-F7C2D7BBC39C}|SocialeWoning\\SocialeWoning.csproj|c:\\users\\micha\\onedrive - odisee\\jaar 3\\programmeertechnieken \u0026 testen\\repositories\\olc\\oefeningen-olc\\oefening_week6_doubles\\socialewoning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B70894A-D72D-4CDD-A23D-F7C2D7BBC39C}|SocialeWoning\\SocialeWoning.csproj|solutionrelative:socialewoning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B70894A-D72D-4CDD-A23D-F7C2D7BBC39C}|SocialeWoning\\SocialeWoning.csproj|c:\\users\\micha\\onedrive - odisee\\jaar 3\\programmeertechnieken \u0026 testen\\repositories\\olc\\oefeningen-olc\\oefening_week6_doubles\\socialewoning\\kandidaat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B70894A-D72D-4CDD-A23D-F7C2D7BBC39C}|SocialeWoning\\SocialeWoning.csproj|solutionrelative:socialewoning\\kandidaat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B70894A-D72D-4CDD-A23D-F7C2D7BBC39C}|SocialeWoning\\SocialeWoning.csproj|c:\\users\\micha\\onedrive - odisee\\jaar 3\\programmeertechnieken \u0026 testen\\repositories\\olc\\oefeningen-olc\\oefening_week6_doubles\\socialewoning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B70894A-D72D-4CDD-A23D-F7C2D7BBC39C}|SocialeWoning\\SocialeWoning.csproj|solutionrelative:socialewoning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B70894A-D72D-4CDD-A23D-F7C2D7BBC39C}|SocialeWoning\\SocialeWoning.csproj|c:\\users\\micha\\onedrive - odisee\\jaar 3\\programmeertechnieken \u0026 testen\\repositories\\olc\\oefeningen-olc\\oefening_week6_doubles\\socialewoning\\isocialewoningvoorwaardenchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B70894A-D72D-4CDD-A23D-F7C2D7BBC39C}|SocialeWoning\\SocialeWoning.csproj|solutionrelative:socialewoning\\isocialewoningvoorwaardenchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,23 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ISocialeWoningVoorwaardenChecker.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning\\ISocialeWoningVoorwaardenChecker.cs",
-              "RelativeDocumentMoniker": "SocialeWoning\\ISocialeWoningVoorwaardenChecker.cs",
-              "ToolTip": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning\\ISocialeWoningVoorwaardenChecker.cs",
-              "RelativeToolTip": "SocialeWoning\\ISocialeWoningVoorwaardenChecker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T19:15:17.957Z"
             },
             {
               "$type": "Document",
@@ -64,9 +52,9 @@
               "RelativeDocumentMoniker": "SocialeWoning.tests_opgave\\ToewijzerTests.cs",
               "ToolTip": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning.tests_opgave\\ToewijzerTests.cs",
               "RelativeToolTip": "SocialeWoning.tests_opgave\\ToewijzerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T18:57:02.596Z",
+              "WhenOpened": "2026-01-15T17:15:38.585Z",
               "EditorCaption": ""
             },
             {
@@ -77,38 +65,40 @@
               "RelativeDocumentMoniker": "SocialeWoning.tests_opgave\\SocialeWoningVoorwaardenCheckerTests.cs",
               "ToolTip": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning.tests_opgave\\SocialeWoningVoorwaardenCheckerTests.cs",
               "RelativeToolTip": "SocialeWoning.tests_opgave\\SocialeWoningVoorwaardenCheckerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T18:57:01.726Z",
+              "WhenOpened": "2026-01-15T17:15:37.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Toewijzer.cs",
               "DocumentMoniker": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning\\Toewijzer.cs",
               "RelativeDocumentMoniker": "SocialeWoning\\Toewijzer.cs",
               "ToolTip": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning\\Toewijzer.cs",
               "RelativeToolTip": "SocialeWoning\\Toewijzer.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T18:56:47.109Z"
+              "WhenOpened": "2026-01-15T17:15:36.378Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "SocialeWoningVoorwaardenChecker.cs",
               "DocumentMoniker": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning\\SocialeWoningVoorwaardenChecker.cs",
               "RelativeDocumentMoniker": "SocialeWoning\\SocialeWoningVoorwaardenChecker.cs",
               "ToolTip": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning\\SocialeWoningVoorwaardenChecker.cs",
               "RelativeToolTip": "SocialeWoning\\SocialeWoningVoorwaardenChecker.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T18:56:46.52Z"
+              "WhenOpened": "2026-01-15T17:15:35.827Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning\\Program.cs",
               "RelativeDocumentMoniker": "SocialeWoning\\Program.cs",
@@ -116,7 +106,8 @@
               "RelativeToolTip": "SocialeWoning\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T18:56:43.68Z"
+              "WhenOpened": "2026-01-15T17:15:34.711Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -128,7 +119,21 @@
               "RelativeToolTip": "SocialeWoning\\Kandidaat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T18:56:42.771Z"
+              "WhenOpened": "2026-01-15T17:15:34.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISocialeWoningVoorwaardenChecker.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning\\ISocialeWoningVoorwaardenChecker.cs",
+              "RelativeDocumentMoniker": "SocialeWoning\\ISocialeWoningVoorwaardenChecker.cs",
+              "ToolTip": "C:\\Users\\micha\\OneDrive - ODISEE\\Jaar 3\\Programmeertechnieken \u0026 testen\\Repositories\\OLC\\Oefeningen-OLC\\Oefening_week6_doubles\\SocialeWoning\\ISocialeWoningVoorwaardenChecker.cs",
+              "RelativeToolTip": "SocialeWoning\\ISocialeWoningVoorwaardenChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T17:15:33.377Z",
+              "EditorCaption": ""
             }
           ]
         }
