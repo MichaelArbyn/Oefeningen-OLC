@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HogerLager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16fce9cd727a9a2bd939a6998e970c3e303b87e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+988d2b79f16c0f2d2788601bea1b0f21bdd6e5c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("HogerLager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HogerLager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
